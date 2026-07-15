@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/84bTQf4F/banner.png" alt="Hridoy Hossen - Full Stack Developer" width="100%" />
+  <img src="https://i.ibb.co.com/Df6C6gRw/banner-1.png" alt="Hridoy Hossen - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
