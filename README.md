@@ -14,7 +14,7 @@
 - 👨‍🏫 By day, I teach **Physics, Higher Math & Chemistry** to Class 9–10 students — teaching keeps my fundamentals sharp.
 - 🌍 Long-term goal: become a strong full-stack developer and work remotely toward relocating to **Europe (Germany)**.
 - 🤝 Ask me about: **React, Node, Express, PostgreSQL, Prisma, TypeScript**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **farhanahmen003@gmail.com**
 
 ---
 
