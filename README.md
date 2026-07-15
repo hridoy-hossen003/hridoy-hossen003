@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Hridoy Hossen - Full Stack Developer" width="100%" />
+  <img src="[./assets/banner.png](https://i.ibb.co.com/84bTQf4F/banner.png" alt="Hridoy Hossen - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
