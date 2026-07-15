@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hridoy</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | Backend-Focused | Home Tutor (Physics, Math & Chemistry)</h3>
+<p align="center">
+  <img src="./assets/banner.png" alt="Hridoy Hossen - Full Stack Developer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+clean%2C+scalable+web+apps;Backend-heavy+Full+Stack+Developer;Learning+AI+Integration+%7C+RAG+%7C+Vector+DBs;Building+toward+a+remote-first%2C+global+career" alt="Typing SVG" />
@@ -20,9 +21,8 @@
 
 ### 🌐 Follow Me On Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="filter: invert(45%) sepia(95%) saturate(1352%) hue-rotate(180deg);" /></a>
-  <a href="https://github.com/your-github" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" /></a>
-  <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" style="filter: invert(35%) sepia(90%) saturate(1500%) hue-rotate(340deg);"/></a>
+  <a href="https://www.linkedin.com/in/hridoy-hossen-69b1b0288/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="filter: invert(45%) sepia(95%) saturate(1352%) hue-rotate(180deg);" /></a>
+  <a href="mailto:farhanahmen003@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" style="filter: invert(35%) sepia(90%) saturate(1500%) hue-rotate(340deg);"/></a>
   <a href="https://facebook.com/your-facebook" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="32" height="32" style="filter: invert(35%) sepia(80%) saturate(1500%) hue-rotate(190deg);"/></a>
 </p>
 
@@ -74,12 +74,12 @@
 ### 📊 GitHub Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hridoy-hossen003&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-hossen003&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy-hossen003&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
